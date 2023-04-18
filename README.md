@@ -1,2 +1,2 @@
-# Maplibre Navigation v1.0.7
-# URL: https://github.com/maplibre/maplibre-navigation-ios
+# MapboxGeocoder v0.1
+# URL: https://github.com/mapbox/MapboxGeocoder.swift
